@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7821ca95410aee818656a1a7e06a6199",
-"assets/FontManifest.json": "afe47e2b93245ef298b32df92469e17e",
+  "assets/AssetManifest.json": "ec8e6abb6d54b84340ebfe1b62a15c1a",
+"assets/FontManifest.json": "a90f1999efedd92635480d80eabe2c20",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/fonts/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/fonts/OpenSans-ExtraBold.ttf": "fb7e3a294cb07a54605a8bb27f0cd528",
 "assets/fonts/OpenSans-Light.ttf": "2d0bdc8df10dee036ca3bedf6f3647c6",
 "assets/fonts/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
+"assets/icons/fonts/IconFaster.ttf": "75f6228d15c10469f9daa2388e46c25d",
 "assets/images/background-sea.png": "1220fc2accc27b8ffde26ca220009a8f",
 "assets/images/background-waves.png": "099d4d1ddc6dd105348263167e787b2b",
 "assets/images/icon-automation.png": "fe98b295c433bb9b157263cf0c4a78bb",
@@ -23,9 +24,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a2dde3359a8eab0793d533a7fc9770e7",
-"/": "a2dde3359a8eab0793d533a7fc9770e7",
-"main.dart.js": "0cf1aaf804673f81fce7b66c87053cd5",
+"index.html": "6a300fe5cce329492ddffdaed2b1794f",
+"/": "6a300fe5cce329492ddffdaed2b1794f",
+"main.dart.js": "673baa9d26b647b9c8c4606ef41ca126",
 "manifest.json": "73d1ca4372b5365d0a67f35ebae12a79",
 "version.json": "9dd41dc8fbfa369a32642e3f0cd83520"
 };
